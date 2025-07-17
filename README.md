@@ -1,5 +1,5 @@
 # Spotted-Knapweed
-V17HRA505: Lundbom Spotted Knapweed Data Analysis
+V17HRA505 Lundbom Spotted Knapweed Data Analysis
 
 This project was fully funded by the British Columbia Ministry of Forests Lands and Natural Resource Operations.
 
